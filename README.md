@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=200&section=header&text=Hi%20There!%20I'm%20[YOUR%20NAME]&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=[YOUR%20TITLE%20%2F%20ROLE]%20@%20[COMPANY%20OR%20UNI]&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://github.com/[YOUR-GITHUB-USERNAME]">
+<a href="https://github.com/[Suchithra5182]">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=[ROLE+1];[ROLE+2];[ROLE+3]" alt="Typing SVG" />
 </a>
 
