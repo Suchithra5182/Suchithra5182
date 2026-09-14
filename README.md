@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated wave banner -->
+<!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=200&section=header&text=Hi%20There!%20I'm%20Suchithra%20D&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%26%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <a href="https://github.com/SuchithraD">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Science+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social badges -->
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,19 +23,18 @@
 
 </div>
 
-<br/>
+---
 
-## 👋 About Me
+### 👋 About Me
 
-- 🎓 **Student** passionate about software development, machine learning, and core computer science
-- 🔭 Currently building projects in **Python, Machine Learning, and Web Development**
-- 🌱 Sharpening my skills in **Data Structures, Algorithms, C++, and System Design**
-- 🧠 Focus areas: Data analysis, object-oriented design, and database management systems
-- 😄 I enjoy tackling logical challenges and building efficient solutions
+* 🎓 **Student** passionate about software development, data science, and core computer science
+* 🔭 Currently building projects in **Python, Machine Learning, and Web Development**
+* 🌱 Sharpening my skills in **Data Structures, Algorithms, C++, and System Design**
+* 🧠 Focus areas: Data analysis, object-oriented design, and database management systems
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -50,48 +49,25 @@
 
 </div>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 Machine Learning Classifier</h3>
-      <p align="center">Data analysis and classification models built using Python, Pandas, and Scikit-Learn</p>
-      <p align="center">
-        <a href="https://github.com/SuchithraD/PROJECT-REPO-1">
-          <img src="https://img.shields.io/github/stars/SuchithraD/PROJECT-REPO-1?style=for-the-badge&color=6C63FF" />
-        </a>
-        <a href="https://github.com/SuchithraD/PROJECT-REPO-1">
-          <img src="https://img.shields.io/github/forks/SuchithraD/PROJECT-REPO-1?style=for-the-badge&color=FF6584" />
-        </a>
-      </p>
-      <p align="center"><a href="https://github.com/SuchithraD/PROJECT-REPO-1">View Repo →</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Web Application Project</h3>
-      <p align="center">Custom styled container layouts and interactive frontend design elements</p>
-      <p align="center">
-        <a href="https://github.com/SuchithraD/PROJECT-REPO-2">
-          <img src="https://img.shields.io/github/stars/SuchithraD/PROJECT-REPO-2?style=for-the-badge&color=6C63FF" />
-        </a>
-        <a href="https://github.com/SuchithraD/PROJECT-REPO-2">
-          <img src="https://img.shields.io/github/forks/SuchithraD/PROJECT-REPO-2?style=for-the-badge&color=FF6584" />
-        </a>
-      </p>
-      <p align="center"><a href="https://github.com/SuchithraD/PROJECT-REPO-2">View Repo →</a></p>
-    </td>
-  </tr>
-</table>
+#### 📊 [Machine Learning Classifier](https://github.com/SuchithraD)
+> Data analysis and classification models built using Python, Pandas, and Scikit-Learn.
+`Python` • `Pandas` • `Scikit-Learn`
 
-<br/>
+#### 🌐 [Web Application Project](https://github.com/SuchithraD)
+> Custom styled container layouts and interactive frontend design elements.
+`HTML5` • `CSS3` • `JavaScript`
+
+---
 
 <div align="center">
 
 ### 🤝 Let's Connect!
 
-Always open to collaborating on tech projects, learning together, or discussing software development.
+Always open to collaborating on tech projects or learning together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,100:6C63FF&height=120&section=footer" width="100%"/>
 
